@@ -13,11 +13,7 @@ In this project we implemented a simple interface so we can play the game and th
 
 # Requirements
 
-To install the requirements run:
-
-```bash
-pip install -r requirements.txt
-```
+For this project there are no third-party modules that need to be installed.
 
 # Usage
 
